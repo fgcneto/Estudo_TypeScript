@@ -29,6 +29,8 @@ enum Colors {
   write = '#fff',
   black = '#000'
 }
+Colors.black;
+Colors.write;
 
 // void
 function logger(): void {
