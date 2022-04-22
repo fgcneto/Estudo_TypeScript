@@ -50,6 +50,12 @@ function logger(): void {
    name: "neto"
  }
 
+ // Type Inference
+ let mensagem = "mensagem definida"
+ 
+ window.addEventListener("click", (e) => {
+   console.log(e.target);
+ });
 
 
 
