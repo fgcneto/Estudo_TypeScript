@@ -13,7 +13,11 @@ https://github.com/fgcneto/Estudo_TypeScript/blob/main/types.ts
 ```
 
 ### Alias Type
+```
 https://github.com/fgcneto/Estudo_TypeScript/blob/main/typeAlias.ts
+```
 
 ### Classes
+```
 https://github.com/fgcneto/Estudo_TypeScript/blob/main/Classes.ts
+```
