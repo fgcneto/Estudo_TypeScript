@@ -8,7 +8,9 @@ https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_
 
 
 ### Type
+```
 https://github.com/fgcneto/Estudo_TypeScript/blob/main/types.ts
+```
 
 ### Alias Type
 https://github.com/fgcneto/Estudo_TypeScript/blob/main/typeAlias.ts
