@@ -1,9 +1,9 @@
 "use strict";
 function logDetails(uid, phone) {
-    console.log("Possui o id ${uid} e o Phone ${phone}");
+    console.log("Possui o id " + uid + " e o Phone ${phone}");
 }
 function logInfo(uid, mobile) {
-    console.log("Possui o id ${uid} e o Phone ${mobile}");
+    console.log("Possui o id " + uid + " e o Phone ${mobile}");
 }
 logDetails(123, 849887);
 logDetails(123, "84987");
