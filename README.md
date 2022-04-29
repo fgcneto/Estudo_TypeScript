@@ -31,3 +31,15 @@ https://github.com/fgcneto/Estudo_TypeScript/blob/main/Classes.ts
 ```
 https://github.com/fgcneto/Estudo_TypeScript/blob/main/interfaces.ts
 ```
+
+### Genericis
+
+```
+https://github.com/fgcneto/Estudo_TypeScript/blob/main/generics.ts
+```
+
+### Type Utilities
+
+```
+https://github.com/fgcneto/Estudo_TypeScript/blob/main/type-utilities.ts
+```
